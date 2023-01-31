@@ -1,0 +1,14 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "蚂蚁商业",
+  "navigationStyle": "custom",
+  "backgroundColor": "#ffffff",
+  "usingComponents": {
+    "uni-swipe-action": "/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "van-button": "/wxcomponents/@vant/weapp/button/index",
+    "van-icon": "/wxcomponents/@vant/weapp/icon/index",
+    "van-empty": "/wxcomponents/@vant/weapp/empty/index",
+    "tabbar": "/components/tabbar/index"
+  }
+}

@@ -1,0 +1,1 @@
+<view><van-empty vue-id="5cf15ca6-1" description="待开发" bind:__l="__l"></van-empty></view>

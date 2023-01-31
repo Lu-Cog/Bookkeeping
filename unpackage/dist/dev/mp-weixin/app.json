@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/tally/index",
+    "pages/stats/index",
+    "pages/add/index",
+    "pages/user/index",
+    "pages/family/index",
+    "pages/views/add_books",
+    "pages/views/particulars",
+    "pages/views/classify_msg",
+    "pages/views/achievement",
+    "pages/views/user_setting",
+    "pages/views/login",
+    "pages/add/edit",
+    "pages/views/customer",
+    "pages/views/clerk",
+    "pages/views/clerkInfo",
+    "pages/views/updateUserInfo",
+    "pages/views/addMoney",
+    "pages/login/login",
+    "pages/login/userReg"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "蚂蚁商业",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#ffffff"
+  },
+  "permission": {},
+  "plugins": {},
+  "usingComponents": {}
+}

@@ -1,0 +1,188 @@
+{
+	"pages": [
+		{
+			"path": "pages/tally/index",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "蚂蚁商业",
+				"navigationStyle": "custom",
+				"backgroundColor": "#ffffff"
+			}
+		},
+		{
+			"path": "pages/stats/index",
+			"style": {}
+		},
+		{
+			"path": "pages/add/index",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": " "
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": true,
+				"backgroundColor": "#18AD85"
+			}
+		},
+		{
+			"path": "pages/family/index",
+			"style": {}
+		},
+		{
+			"path": "pages/views/add_books",
+			"style": {
+				"navigationBarTitleText": " "
+			}
+		},
+		{
+			"path": "pages/views/particulars",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/views/classify_msg",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/views/achievement",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/views/user_setting",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/views/login",
+			"style": {}
+		},
+		{
+			"path": "pages/add/edit",
+			"style": {
+				"navigationBarTitleText": " "
+			}
+		}
+	    ,{
+            "path" : "pages/views/customer",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/views/clerk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/views/clerkInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/views/updateUserInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/views/addMoney",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/userReg",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "注册",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"sitemapLocation": "sitemap.json",
+	// "tabBar": {
+	// 	"custom": true,
+	// 	"color": "#d8d8d8",
+	// 	"selectedColor": "#00a578",
+	// 	"backgroundColor": "#ffffff",
+	// 	"borderStyle": "white",
+	// 	"list": [
+	// 		{
+	// 			"iconPath": "static/images/tabbar/tally.png",
+	// 			"selectedIconPath": "static/images/tabbar/tally.png",
+	// 			"pagePath": "pages/tally/index",
+	// 			"text": "记账"
+	// 		},
+	// 		{
+	// 			"iconPath": "static/images/tabbar/scat.png",
+	// 			"selectedIconPath": "static/images/tabbar/scat.png",
+	// 			"pagePath": "pages/stats/index",
+	// 			"text": "统计"
+	// 		},
+	// 		{
+	// 			"iconPath": "static/images/tabbar/add.png",
+	// 			"selectedIconPath": "static/images/tabbar/add.png",
+	// 			"pagePath": "pages/add/index",
+	// 			"text": "添加"
+	// 		},
+	// 		{
+	// 			"iconPath": "static/images/tabbar/family.png",
+	// 			"selectedIconPath": "static/images/tabbar/family.png",
+	// 			"pagePath": "pages/family/index",
+	// 			"text": "家庭"
+	// 		},
+	// 		{
+	// 			"iconPath": "static/images/tabbar/user.png",
+	// 			"selectedIconPath": "static/images/tabbar/user.png",
+	// 			"pagePath": "pages/user/index",
+	// 			"text": "我的"
+	// 		}
+	// 	]
+	// },
+	"globalStyle": {
+		"backgroundTextStyle": "dark",
+		"navigationBarBackgroundColor": "#ffffff",
+		"navigationBarTitleText": "蚂蚁商业",
+		"navigationBarTextStyle": "black",
+		"backgroundColor": "#ffffff"
+	},
+	"subPackages": []
+}

@@ -1,0 +1,12 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": " ",
+  "usingComponents": {
+    "van-popup": "/wxcomponents/@vant/weapp/popup/index",
+    "van-button": "/wxcomponents/@vant/weapp/button/index",
+    "van-field": "/wxcomponents/@vant/weapp/field/index",
+    "van-icon": "/wxcomponents/@vant/weapp/icon/index",
+    "van-empty": "/wxcomponents/@vant/weapp/empty/index",
+    "tabbar": "/components/tabbar/index"
+  }
+}
